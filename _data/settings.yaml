@@ -55,7 +55,7 @@ images:
     quality: 75
   jpeg:
     enabled: true
-    quality: 75
+    quality: 95
 i18n:
   site_language: en
   site_social_title: GitHub
