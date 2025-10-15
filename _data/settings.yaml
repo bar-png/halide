@@ -19,8 +19,8 @@ metadata:
     photographers and still image creators. Read the docs, please.
   site_email: bar.formaniak@gmail.com
   site_social_url: 'https://www.instagram.com/barbarfor/'
-  site_icon_svg: ''
-  site_icon_png: ''
+  site_icon_svg: /assets/uploads/favicon.svg
+  site_icon_png: /assets/uploads/favicon-96x96.png
   site_ga4_id: ''
   seo:
     site_title: ''
