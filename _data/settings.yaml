@@ -57,5 +57,5 @@ images:
     enabled: true
     quality: 95
 i18n:
-  site_language: en
-  site_social_title: GitHub
+  site_language: pl
+  site_social_title: Instagram
