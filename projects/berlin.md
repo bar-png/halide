@@ -10,6 +10,8 @@ images:
     caption: pigeon
   - src: /assets/uploads/Berlin/IMG_0214.jpg
     caption: details
+  - src: /assets/uploads/Berlin/IMG_0273.jpg
+    caption: park
 date: 2025-10-19T16:42:24.669Z
 position: 0
 ---
