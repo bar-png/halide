@@ -16,6 +16,7 @@ images:
   - src: /assets/uploads/Liverpool/IMG_5002.jpg
     caption: guy
 date: 2025-10-19T20:51:00.149Z
+position: 1
 ---
 
 Been to Manchester too. Might post later.
