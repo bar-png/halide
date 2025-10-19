@@ -8,6 +8,8 @@ images:
     caption: jesus-work-in-pogress
   - src: /assets/uploads/Berlin/IMG_0523.jpg
     caption: pigeon
+  - src: /assets/uploads/Berlin/IMG_0214.jpg
+    caption: details
 date: 2025-10-19T16:42:24.669Z
 position: 0
 ---
