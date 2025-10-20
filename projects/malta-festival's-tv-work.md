@@ -14,6 +14,7 @@ images:
   - src: /assets/uploads/MaltaEdit/tilda.jpg
     caption: tilda
 date: 2025-10-20T10:43:26.176Z
+position: 2
 ---
 
 We are very proud of the festival's [After Movies](https://www.youtube.com/watch?v=Uv-Yw49xqlQ).
