@@ -17,5 +17,6 @@ images:
   - src: /assets/uploads/WKminis/ZimnaWojna-thumb.jpg
     caption: coldwar
 date: 2025-10-19T23:15:51.481Z
+position: 1
 ---
 
