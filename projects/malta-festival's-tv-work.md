@@ -5,8 +5,6 @@ description: >
   As a part of a team effort, I was responsible for video editing and the
   graphical elements of the videos produced by the Malta Festival TV.
 images:
-  - src: /assets/uploads/MaltaEdit/colorman.jpg
-    caption: colorman
   - src: /assets/uploads/MaltaEdit/timrobbins.jpg
     caption: tim
   - src: /assets/uploads/MaltaEdit/maltacredits.jpg
