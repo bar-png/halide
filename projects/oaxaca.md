@@ -15,7 +15,7 @@ images:
   - src: /assets/uploads/Mexico/IMG_7832.jpg
     caption: nieves
 date: 2025-10-19T21:08:09.483Z
-position: 2
+position: 0
 ---
 
 Mexico City was too crazy to showcase here.
